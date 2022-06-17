@@ -4,7 +4,7 @@
 <div>
 <a href="https://github.com/Samila23">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samila23&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samila23&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Samila23&show_icons=true&theme=dracula&include_all_commits=true&count_private=false"/>
 </div>
 
 ![Snake animation](https://github.com/Samila23/Samila23/blob/output/github-contribution-grid-snake.svg) 
